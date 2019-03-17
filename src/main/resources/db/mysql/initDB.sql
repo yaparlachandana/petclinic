@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS petclinic;
 #GRANT ALL PRIVILEGES ON petclinic.* TO pc@localhost IDENTIFIED BY 'pc';
-GRANT ALL PRIVILEGES ON petclinic.* TO raju@'%' IDENTIFIED BY 'mahesh220';
+GRANT ALL PRIVILEGES ON petclinic.* TO chandana@'%' IDENTIFIED BY 'chandana';
 
 USE petclinic;
 
